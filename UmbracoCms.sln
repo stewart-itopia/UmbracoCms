@@ -8,20 +8,20 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "website(1)", "http://localh
 		UseIISExpress = "true"
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_53437"
-		Debug.AspNetCompiler.PhysicalPath = "D:\repos\UmbracoCms\website\"
+		Debug.AspNetCompiler.PhysicalPath = "website\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53437\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_53437"
-		Release.AspNetCompiler.PhysicalPath = "D:\repos\UmbracoCms\website\"
+		Release.AspNetCompiler.PhysicalPath = "website\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53437\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		SlnRelativePath = "D:\repos\UmbracoCms\website\"
+		SlnRelativePath = "website\"
 	EndProjectSection
 EndProject
 Global
