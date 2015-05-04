@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <setParameter name="IIS Web Application Name" value="ci-testsite" />
-  <setParameter name="umbracoDbDSN-Web.config Connection String" value="server=.\SQLExpress;database=AFCUmbraco611;user id=adc_user;password=password123" />
-</parameters>
